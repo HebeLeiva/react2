@@ -1,0 +1,19 @@
+.contenedorCarrito {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    align-items: center;
+    padding-left: 50%;
+}
+
+.carrito {
+    width: 65%;
+}
+
+h3 {
+    color: rgb(37, 37, 97);
+    font-weight: bolder;
+    font-size: xx-large;
+}
